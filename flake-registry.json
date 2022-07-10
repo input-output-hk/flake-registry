@@ -96,7 +96,8 @@
       "to": {
         "owner": "NixOS",
         "repo": "nix",
-        "type": "github"
+        "type": "github",
+        "ref": "2.9-maintenance"
       }
     },
     {
