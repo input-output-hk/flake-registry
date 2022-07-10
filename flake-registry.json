@@ -209,6 +209,30 @@
         "repo": "bundlers",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "bitte",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "input-output-hk",
+        "repo": "bitte",
+        "rev": "01d8f598076e11c309f0565564e31c47621248d9",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "std",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "divnix",
+        "repo": "std",
+        "rev": "89a8711d4bb3ff2f59609f43277b8d8f79fb9861",
+        "type": "github"
+      }
     }
   ],
   "version": 2
