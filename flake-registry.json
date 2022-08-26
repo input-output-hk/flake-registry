@@ -201,18 +201,6 @@
     },
     {
       "from": {
-        "id": "std",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "divnix",
-        "repo": "std",
-        "rev": "89a8711d4bb3ff2f59609f43277b8d8f79fb9861",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "iogo",
         "type": "indirect"
       },
@@ -291,6 +279,18 @@
         "owner": "divnix",
         "repo": "data-merge",
         "rev": "d160d18ce7b1a45b88344aa3f13ed1163954b497",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "std",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "divnix",
+        "repo": "std",
+        "rev": "92503146d322c0c1ec3f2567925711b5fb59f7e2",
         "type": "github"
       }
     }
