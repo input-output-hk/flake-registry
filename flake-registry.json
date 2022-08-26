@@ -270,6 +270,17 @@
         "rev": "91f8c9dc626f7c687d3624e07eff89aa2051e6de",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "nixos",
+        "type": "indirect"
+      },
+      "to": {
+        "id": "nixpkgs",
+        "ref": "nixos-21.11",
+        "type": "indirect"
+      }
     }
   ],
   "version": 2
