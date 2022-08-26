@@ -305,6 +305,18 @@
         "rev": "125b8665c6139e3a127d243534a4f0ce36e3a335",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "agenix",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "ryantm",
+        "repo": "agenix",
+        "rev": "7e5e58b98c3dcbf497543ff6f22591552ebfe65b",
+        "type": "github"
+      }
     }
   ],
   "version": 2
