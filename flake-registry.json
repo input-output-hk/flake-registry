@@ -317,6 +317,17 @@
         "rev": "7e5e58b98c3dcbf497543ff6f22591552ebfe65b",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "ops-lib",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "input-output-hk",
+        "repo": "ops-lib",
+        "type": "github"
+      }
     }
   ],
   "version": 2
