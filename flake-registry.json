@@ -246,6 +246,18 @@
         "repo": "nix",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "ragenix",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "yaxitech",
+        "repo": "ragenix",
+        "rev": "47cec29d0c9f1da3a03cfff7406bd10cc7968926",
+        "type": "github"
+      }
     }
   ],
   "version": 2
