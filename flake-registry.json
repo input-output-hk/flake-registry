@@ -201,18 +201,6 @@
     },
     {
       "from": {
-        "id": "bitte",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "input-output-hk",
-        "repo": "bitte",
-        "rev": "01d8f598076e11c309f0565564e31c47621248d9",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "std",
         "type": "indirect"
       },
@@ -256,6 +244,18 @@
         "owner": "yaxitech",
         "repo": "ragenix",
         "rev": "47cec29d0c9f1da3a03cfff7406bd10cc7968926",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "bitte",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "input-output-hk",
+        "repo": "bitte",
+        "rev": "6339b439614ecbe8fe57915d420e5eb9347eab48",
         "type": "github"
       }
     }
