@@ -281,6 +281,18 @@
         "ref": "nixos-21.11",
         "type": "indirect"
       }
+    },
+    {
+      "from": {
+        "id": "data-merge",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "divnix",
+        "repo": "data-merge",
+        "rev": "d160d18ce7b1a45b88344aa3f13ed1163954b497",
+        "type": "github"
+      }
     }
   ],
   "version": 2
