@@ -46,17 +46,6 @@
     },
     {
       "from": {
-        "id": "flake-utils",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "numtide",
-        "repo": "flake-utils",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "home-manager",
         "type": "indirect"
       },
@@ -326,6 +315,18 @@
       "to": {
         "owner": "input-output-hk",
         "repo": "ops-lib",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "flake-utils",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "rev": "c0e246b9b83f637f4681389ecabcb2681b4f3af0",
         "type": "github"
       }
     }
