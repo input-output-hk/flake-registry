@@ -234,6 +234,18 @@
         "rev": "89a8711d4bb3ff2f59609f43277b8d8f79fb9861",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "iogo",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "input-output-hk",
+        "repo": "bitte-iogo",
+        "rev": "8751660009202bc95ea3a29e304c393c140a4231",
+        "type": "github"
+      }
     }
   ],
   "version": 2
