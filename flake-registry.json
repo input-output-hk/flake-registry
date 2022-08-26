@@ -342,6 +342,18 @@
         "repo": "nixpkgs",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "nixpkgs-unstable",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "nixos",
+        "repo": "nixpkgs",
+        "rev": "03428dbaaa23d6bf458770907b0927b377c873a8",
+        "type": "github"
+      }
     }
   ],
   "version": 2
