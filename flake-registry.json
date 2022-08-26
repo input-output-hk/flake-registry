@@ -258,6 +258,18 @@
         "rev": "6339b439614ecbe8fe57915d420e5eb9347eab48",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "n2c",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "nlewo",
+        "repo": "nix2container",
+        "rev": "91f8c9dc626f7c687d3624e07eff89aa2051e6de",
+        "type": "github"
+      }
     }
   ],
   "version": 2
