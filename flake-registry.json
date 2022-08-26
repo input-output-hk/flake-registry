@@ -354,6 +354,18 @@
         "rev": "03428dbaaa23d6bf458770907b0927b377c873a8",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "nix-2_10",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "nixos",
+        "repo": "nix",
+        "rev": "0b62dab6db3da5b20e62697b14aaaf80f1a2eea6",
+        "type": "github"
+      }
     }
   ],
   "version": 2
