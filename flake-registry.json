@@ -90,18 +90,6 @@
     },
     {
       "from": {
-        "id": "nix",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "NixOS",
-        "repo": "nix",
-        "type": "github",
-        "ref": "2.9-maintenance"
-      }
-    },
-    {
-      "from": {
         "id": "nix-darwin",
         "type": "indirect"
       },
@@ -244,6 +232,18 @@
         "owner": "input-output-hk",
         "repo": "bitte-iogo",
         "rev": "8751660009202bc95ea3a29e304c393c140a4231",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "nix",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "nixos",
+        "ref": "2.10.maintenance",
+        "repo": "nix",
         "type": "github"
       }
     }
