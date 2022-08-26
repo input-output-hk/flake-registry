@@ -207,7 +207,7 @@
       },
       "to": {
         "owner": "nixos",
-        "ref": "2.10.maintenance",
+        "ref": "2.10-maintenance",
         "repo": "nix",
         "type": "github"
       }
