@@ -293,6 +293,18 @@
         "rev": "92503146d322c0c1ec3f2567925711b5fb59f7e2",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "capsules",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "input-output-hk",
+        "repo": "devshell-capsules",
+        "rev": "125b8665c6139e3a127d243534a4f0ce36e3a335",
+        "type": "github"
+      }
     }
   ],
   "version": 2
