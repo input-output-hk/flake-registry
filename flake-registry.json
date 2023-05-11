@@ -2,261 +2,13 @@
   "flakes": [
     {
       "from": {
-        "id": "arion",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "hercules-ci",
-        "repo": "arion",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "dreampkgs",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "nix-community",
-        "repo": "dreampkgs",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "dwarffs",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "edolstra",
-        "repo": "dwarffs",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "fenix",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "nix-community",
-        "repo": "fenix",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "home-manager",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "nix-community",
-        "repo": "home-manager",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "hydra",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "NixOS",
-        "repo": "hydra",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "mach-nix",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "DavHau",
-        "repo": "mach-nix",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "nix-darwin",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "LnL7",
-        "repo": "nix-darwin",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "nixops",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "NixOS",
-        "repo": "nixops",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "nixos-hardware",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "NixOS",
-        "repo": "nixos-hardware",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "nixpkgs",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "NixOS",
-        "ref": "nixpkgs-unstable",
-        "repo": "nixpkgs",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "templates",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "NixOS",
-        "repo": "templates",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "patchelf",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "NixOS",
-        "repo": "patchelf",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "poetry2nix",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "nix-community",
-        "repo": "poetry2nix",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "nix-serve",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "edolstra",
-        "repo": "nix-serve",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "nickel",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "tweag",
-        "repo": "nickel",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "bundlers",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "NixOS",
-        "repo": "bundlers",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "iogo",
+        "id": "tullia",
         "type": "indirect"
       },
       "to": {
         "owner": "input-output-hk",
-        "repo": "bitte-iogo",
-        "rev": "8751660009202bc95ea3a29e304c393c140a4231",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "nix",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "nixos",
-        "ref": "2.10-maintenance",
-        "repo": "nix",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "ragenix",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "yaxitech",
-        "repo": "ragenix",
-        "rev": "47cec29d0c9f1da3a03cfff7406bd10cc7968926",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "bitte",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "input-output-hk",
-        "repo": "bitte",
-        "rev": "6339b439614ecbe8fe57915d420e5eb9347eab48",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "n2c",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "nlewo",
-        "repo": "nix2container",
-        "rev": "91f8c9dc626f7c687d3624e07eff89aa2051e6de",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "data-merge",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "divnix",
-        "repo": "data-merge",
-        "rev": "d160d18ce7b1a45b88344aa3f13ed1163954b497",
+        "repo": "tullia",
+        "rev": "708d1ec45b17923d2452ba8f28795228ba8aafd5",
         "type": "github"
       }
     },
@@ -268,7 +20,31 @@
       "to": {
         "owner": "divnix",
         "repo": "std",
-        "rev": "92503146d322c0c1ec3f2567925711b5fb59f7e2",
+        "ref": "v0.21.3",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "haskell-nix",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "input-output-hk",
+        "repo": "haskell.nix",
+        "ref": "0.0.117",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "iohk-nix",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "input-output-hk",
+        "repo": "iohk-nix",
+        "ref": "v1",
         "type": "github"
       }
     },
@@ -281,89 +57,6 @@
         "owner": "input-output-hk",
         "repo": "devshell-capsules",
         "rev": "125b8665c6139e3a127d243534a4f0ce36e3a335",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "agenix",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "ryantm",
-        "repo": "agenix",
-        "rev": "7e5e58b98c3dcbf497543ff6f22591552ebfe65b",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "ops-lib",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "input-output-hk",
-        "repo": "ops-lib",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "flake-utils",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "numtide",
-        "repo": "flake-utils",
-        "rev": "c0e246b9b83f637f4681389ecabcb2681b4f3af0",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "nixos-21_11",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "nixos",
-        "repo": "nixpkgs",
-        "rev": "eabc38219184cc3e04a974fe31857d8e0eac098d",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "nixos",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "nixos",
-        "ref": "nixos-unstable",
-        "repo": "nixpkgs",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "nixpkgs-unstable",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "nixos",
-        "repo": "nixpkgs",
-        "rev": "03428dbaaa23d6bf458770907b0927b377c873a8",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "nix-2_10",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "nixos",
-        "repo": "nix",
-        "rev": "0b62dab6db3da5b20e62697b14aaaf80f1a2eea6",
         "type": "github"
       }
     }
