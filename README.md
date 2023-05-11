@@ -8,7 +8,7 @@ In your `flake.nix`, add:
 
 ```nix
 {
-  nixConfig.flake-registry = https://raw.githubusercontent.com/input-output-hk/flake-registry/iog/flake-registry.json
+  nixConfig.flake-registry = https://input-output-hk.github.io/flake-registry/data.json
 }
 ```
 

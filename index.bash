@@ -9,7 +9,7 @@ In your \`flake.nix\`, add:
 
 \`\`\`nix
 {
-  nixConfig.flake-registry = https://raw.githubusercontent.com/input-output-hk/flake-registry/iog/flake-registry.json
+  nixConfig.flake-registry = https://input-output-hk.github.io/flake-registry/data.json
 }
 \`\`\`
 
@@ -17,4 +17,4 @@ In your \`flake.nix\`, add:
 
 INTRO
 
-jq -r '.flakes[] | "  - \(.from.id) &rarr; \(.to.type):\(.to.owner)/\(.to.repo)"' ./flake-registry.json >> README.md
+jq -r '.flakes[] | "  - \(.from.id) &rarr; \(.to.type):\(.to.owner)/\(.to.repo)"' ./data.json >> README.md
