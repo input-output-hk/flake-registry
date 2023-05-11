@@ -8,11 +8,11 @@ In your `flake.nix`, add:
 
 ```nix
 {
-  nixConfig.flake-registry = https://input-output-hk.github.io/flake-registry/data.json;
+  nixConfig.flake-registry = https://input-output-hk.github.io/flake-registry/simple.json;
 }
 ```
 
-## Inventory
+## Inventory (`./simple.json`)
 
   - tullia &rarr; github:input-output-hk/tullia
   - std &rarr; github:divnix/std
